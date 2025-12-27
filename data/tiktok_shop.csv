@@ -1,0 +1,11 @@
+video_id,creator_type,content_type,bundle,discount,views,clicks,add_to_cart,sales,revenue,date
+1,micro,tutorial,yes,10,12000,1800,950,320,6400,2025-01-01
+2,macro,review,no,0,45000,3100,1200,270,5400,2025-01-01
+3,micro,unboxing,no,5,9000,950,420,130,2100,2025-01-02
+4,macro,live,yes,20,52000,5600,2600,780,19500,2025-01-02
+5,middle,tutorial,no,10,18000,2200,1100,290,4350,2025-01-03
+6,micro,tutorial,yes,15,14000,2100,1050,360,9000,2025-01-03
+7,middle,review,no,5,16000,1500,640,170,2550,2025-01-04
+8,macro,unboxing,no,0,38000,2100,780,190,2850,2025-01-04
+9,micro,live,yes,10,10000,2000,1100,420,12600,2025-01-05
+10,middle,tutorial,yes,15,19000,2600,1400,410,8200,2025-01-05
