@@ -1,6 +1,7 @@
 # social-commerce-project
 
-TikTok Social Commerce Project
+#TikTok Social Commerce Project
+
 Este é um projeto de análise de social commerce inspirado em TikTok Shop para marcas de beleza.
 
 Objetivos:
@@ -10,7 +11,8 @@ Objetivos:
 - Tirar insights aplicáveis para estratégias de social commerce
 - -------
 
-TikTok Social Commerce Project
+#TikTok Social Commerce Project
+
 This is a social commerce analysis project inspired by TikTok Shop for beauty brands.
 
 Goals:
